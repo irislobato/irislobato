@@ -267,6 +267,7 @@ Projetos voltados para consolidar conhecimentos em desenvolvimento Full-Stack, A
 │                                                              │
 │  STATUS: CONSTANTLY EVOLVING                                 │
 ╰──────────────────────────────────────────────────────────────╯
+````
 # `> CONNECT_WITH_ME`
 
 <div align="center">
