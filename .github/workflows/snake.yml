@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
@@ -20,14 +17,15 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: irislobato
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23c084fc&color_dots=%2316111a,%235b214f,%23a0447b,%23e878b1,%23ffc4df
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23c084fc&color_dots=%2316111a,%235b214f,%23a0447b,%23e878b1,%23ffc4df
 
-      - name: Deploy snake
-        uses: crazy-max/ghaction-github-pages@v5.0.0
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%23a855f7&color_dots=%23f5e6f0,%23e8a9c9,%23d66a9f,%23b83d78,%238a285f
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23c084fc&color_dots=%23261827,%235c2850,%239d3f78,%23e06aa5,%23ffb6d9
+
+      - name: Deploy
+        uses: crazy-max/ghaction-github-pages@v5
         with:
-          target_branch: output
           build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
