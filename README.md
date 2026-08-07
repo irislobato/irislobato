@@ -24,17 +24,18 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                    SYSTEM INITIALIZATION                    ║
+║                    SYSTEM INITIALIZATION                     ║
 ╠══════════════════════════════════════════════════════════════╣
-║  [✓] Neural Interface ................. ONLINE              ║
-║  [✓] Engineering Core ................ ONLINE              ║
-║  [✓] Java Runtime .................... ONLINE              ║
-║  [✓] JavaScript Environment .......... ONLINE              ║
-║  [✓] Database Connection ............. ONLINE              ║
-║  [✓] Full-Stack Module ............... LOADING...           ║
+║  [✓] Neural Interface ................ ONLINE                ║
+║  [✓] Java Runtime .................... ONLINE                ║
+║  [✓] JavaScript Environment .......... ONLINE                ║
+║  [✓] Database Connection ............. ONLINE                ║
+║  [✓] Engineering Core ................ LOADING...            ║
+║  [✓] Full-Stack Module ............... LOADING...            ║
 ║                                                              ║
-║  STATUS: BUILDING THE FUTURE                              ║
+║  STATUS: BUILDING THE FUTURE                                 ║
 ╚══════════════════════════════════════════════════════════════╝
+
 ```
 
 </div>
@@ -111,25 +112,25 @@ $ ./iris --current-goals
 
 <img src="https://skillicons.dev/icons?i=java,js" />
 
-<br><br>
+<br>
 
 ### `BACK-END`
 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,hibernate" />
 
-<br><br>
+<br>
 
 ### `FRONT-END`
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
-<br><br>
+<br>
 
 ### `DATABASE`
 
 <img src="https://skillicons.dev/icons?i=postgresql" />
 
-<br><br>
+<br>
 
 ### `TOOLS & ENVIRONMENT`
 
@@ -222,16 +223,6 @@ Projetos voltados para consolidar conhecimentos em desenvolvimento Full-Stack, A
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iris-lobato&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=F7A8D1&icon_color=C084FC&text_color=E9D5FF&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irislobato&layout=compact&hide_border=true&langs_count=8&title_color=F7A8D1&text_color=E9D5FF&bg_color=0D1117"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=irislobato&theme=dark&hide_border=true&background=0D1117&ring=F7A8D1&fire=C084FC&currStreakLabel=F7A8D1&sideLabels=E9D5FF&dates=9CA3AF" width="70%"/>
 
 </div>
@@ -268,14 +259,14 @@ Projetos voltados para consolidar conhecimentos em desenvolvimento Full-Stack, A
 │                      IRIS DEVELOPMENT                        │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  Backend Development      ████████████████████░░  85%       │
-│  Java                    ███████████████████░░░  80%       │
-│  JavaScript              █████████████████░░░░░  75%       │
-│  Databases               ██████████████████░░░░  78%       │
-│  Frontend                ███████████░░░░░░░░░░░  50%       │
-│  Full-Stack              █████████░░░░░░░░░░░░░  40%       │
+│  Backend Development     ████████████████████░░  85%         │
+│  Java                    ███████████████████░░░  80%         │
+│  JavaScript              █████████████████░░░░░  75%         │
+│  Databases               ██████████████████░░░░  78%         │
+│  Frontend                ███████████░░░░░░░░░░░  50%         │
+│  Full-Stack              █████████░░░░░░░░░░░░░  40%         │
 │                                                              │
-│  STATUS: CONSTANTLY EVOLVING                                │
+│  STATUS: CONSTANTLY EVOLVING                                 │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
@@ -304,12 +295,12 @@ Projetos voltados para consolidar conhecimentos em desenvolvimento Full-Stack, A
 <div align="center">
 
 ```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║       "BUILDING SYSTEMS. SOLVING PROBLEMS.               ║
-║                    ENGINEERING THE FUTURE."               ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════╗
+║                                                        ║
+║       "BUILDING SYSTEMS. SOLVING PROBLEMS.             ║
+║                    ENGINEERING THE FUTURE."            ║
+║                                                        ║
+╚════════════════════════════════════════════════════════╝
 ```
 
 ### `SYSTEM STATUS: ONLINE ●`
