@@ -248,16 +248,6 @@ Projetos voltados para consolidar conhecimentos em desenvolvimento Full-Stack, A
 
 ---
 
-# `> TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=irislobato&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
-</div>
-
----
-
 # `> CONTRIBUTION_PROTOCOL`
 
 <div align="center">
@@ -265,9 +255,6 @@ Projetos voltados para consolidar conhecimentos em desenvolvimento Full-Stack, A
 <img src="https://raw.githubusercontent.com/irislobato/irislobato/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
-
-> **SYSTEM NOTE:** Para ativar a Snake Animation, é necessário configurar uma GitHub Action no repositório `iris-lobato` para gerar automaticamente o arquivo SVG de contribuições.
-
 ---
 
 # `> DEVELOPMENT_STATUS`
