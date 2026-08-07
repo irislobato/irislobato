@@ -253,7 +253,7 @@ Projetos voltados para consolidar conhecimentos em desenvolvimento Full-Stack, A
 </div>
 
 # `> DEVELOPMENT_STATUS`
-
+<div align="center">
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │                      IRIS DEVELOPMENT                        │
@@ -269,7 +269,7 @@ Projetos voltados para consolidar conhecimentos em desenvolvimento Full-Stack, A
 │  STATUS: CONSTANTLY EVOLVING                                 │
 ╰──────────────────────────────────────────────────────────────╯
 ```
-
+  </div>
 ---
 
 # `> CONNECT_WITH_ME`
