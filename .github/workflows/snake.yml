@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
@@ -16,29 +13,20 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
         with:
           github_user_name: irislobato
-
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23c084fc&color_dots=%23f5e6f0,%23e8a9c9,%23d66a9f,%23b83d78,%23ff8fc7
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23c084fc&color_dots=%23261827,%235c2850,%239d3f78,%23e06aa5,%23ffb6d9
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Ajusta a cor dos quadradinhos vazios no tema escuro
-      - name: Improve dark mode contrast
+      - name: Adjust snake contrast
         run: |
-          sed -i 's/--ce:[^;]*/--ce:#211923/g' dist/github-contribution-grid-snake-dark.svg
+          sed -i 's/--cs:#c084fc/--cs:#a967d5/g' dist/github-contribution-grid-snake-dark.svg
 
-      # Ajusta a cor dos quadradinhos vazios no tema claro
-      - name: Improve light mode contrast
-        run: |
-          sed -i 's/--ce:[^;]*/--ce:#f3e6ed/g' dist/github-contribution-grid-snake.svg
-
-      - name: Deploy Snake
-        uses: crazy-max/ghaction-github-pages@v5
+      - name: Push snake
+        uses: EndBug/add-and-commit@v9
         with:
-          build_dir: dist
-          target_branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          message: "Update contribution snake"
+          add: "dist/"
