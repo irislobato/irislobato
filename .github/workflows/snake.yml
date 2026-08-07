@@ -28,7 +28,7 @@ jobs:
       # Ajusta a cor dos quadradinhos vazios no tema escuro
       - name: Improve dark mode contrast
         run: |
-          sed -i 's/--ce:[^;]*/--ce:#261827/g' dist/github-contribution-grid-snake-dark.svg
+          sed -i 's/--ce:[^;]*/--ce:#211923/g' dist/github-contribution-grid-snake-dark.svg
 
       # Ajusta a cor dos quadradinhos vazios no tema claro
       - name: Improve light mode contrast
