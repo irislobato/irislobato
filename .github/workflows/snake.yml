@@ -1,12 +1,9 @@
 name: Generate Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
@@ -21,10 +18,9 @@ jobs:
         with:
           github_user_name: irislobato
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23c084fc&color_dots=%23f5e6f0,%23e8a9c9,%23d66a9f,%23b83d78,%23ff8fc7
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23c084fc&color_dots=%232d1b2d,%235c2850,%239d3f78,%23e06aa5,%23ffb6d9
+            dist/github-contribution-grid-snake.svg?color_snake=%23c084fc&color_dots=%2316111a,%235b214f,%23a0447b,%23e878b1,%23ffc4df
 
-      - name: Deploy
+      - name: Publish
         uses: crazy-max/ghaction-github-pages@v5
         with:
           build_dir: dist
