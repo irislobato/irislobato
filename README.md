@@ -253,23 +253,20 @@ Projetos voltados para consolidar conhecimentos em desenvolvimento Full-Stack, A
 </div>
 
 # `> DEVELOPMENT_STATUS`
-
-````text
+````
 ╭──────────────────────────────────────────────────────────────╮
-│                      IRIS DEVELOPMENT                        │
+│                       IRIS DEVELOPMENT                       │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  Backend Development     ████████████████████░░  85%         │
-│  Java                    ███████████████████░░░  80%         │
-│  JavaScript              █████████████████░░░░░  75%         │
-│  Databases               ██████████████████░░░░  78%         │
-│  Frontend                ███████████░░░░░░░░░░░  50%         │
-│  Full-Stack              █████████░░░░░░░░░░░░░  40%         │
+│  Backend Development    █████████████████░░░   85%           │
+│  Java                   ████████████████░░░░   80%           │
+│  JavaScript             ███████████████░░░░░   75%           │
+│  Databases              ████████████████░░░░   78%           │
+│  Frontend               ██████████░░░░░░░░░░   50%           │
+│  Full-Stack             ████████░░░░░░░░░░░░   40%           │
 │                                                              │
 │  STATUS: CONSTANTLY EVOLVING                                 │
 ╰──────────────────────────────────────────────────────────────╯
-````
-----
 # `> CONNECT_WITH_ME`
 
 <div align="center">
