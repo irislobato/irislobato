@@ -252,10 +252,6 @@ Projetos voltados para consolidar conhecimentos em desenvolvimento Full-Stack, A
 
 <div align="center">
 
-# `> CONTRIBUTION_PROTOCOL`
-
-<div align="center">
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
