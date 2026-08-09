@@ -190,7 +190,7 @@ Sistema de gerenciamento de tempos de voltas automobilísticas desenvolvido como
 
 <td width="50%" valign="top">
 
-<h3 align="center">⚡ Future Projects</h3>
+<h3 align="center">📝 Sistema de Precificação</h3>
 
 <div align="center">
 
@@ -198,11 +198,11 @@ Sistema de gerenciamento de tempos de voltas automobilísticas desenvolvido como
 
 <br><br>
 
-Projetos voltados para consolidar conhecimentos em desenvolvimento Full-Stack, APIs, bancos de dados e aplicações reais.
+Um sistema de precificação inteligente para trabalhos culinários.
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=java,js,nodejs,html,postgresql" />
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,html" />
 
 <br><br>
 
