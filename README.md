@@ -97,9 +97,9 @@ $ ./iris --current-goals
      └── Preparação para o mercado de tecnologia
 
 [04] CURRENT PROJECT
-     └── RaceRank
-         └── Sistema de gerenciamento de tempos
-             de voltas automobilísticas
+     └── Sistema de Precificação
+         └── Sistema de precificação para
+             trabalhos culinários
 ```
 
 ---
