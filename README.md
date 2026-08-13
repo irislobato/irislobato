@@ -100,6 +100,12 @@ $ ./iris --current-goals
      └── Sistema de Precificação
          └── Sistema de precificação para
              trabalhos culinários
+
+[05] CURRENT PROJECT
+     └── E-commerce de Artes Y2K
+         └── Site voltado para venda de artes
+             estilo Y2K/'90
+
 ```
 
 ---
@@ -162,7 +168,7 @@ $ ./iris --current-goals
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3 align="center">🏁 RaceRank</h3>
 
@@ -188,7 +194,7 @@ Sistema de gerenciamento de tempos de voltas automobilísticas desenvolvido como
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3 align="center">📝 Sistema de Precificação</h3>
 
@@ -202,11 +208,35 @@ Um sistema de precificação inteligente para trabalhos culinários.
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=java,js,nodejs,html" />
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,html,css" />
 
 <br><br>
 
-**Learning • Building • Improving**
+**FullStack • Architecture • Database**
+
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🎨 E-commerce de Artes Y2K</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-C084FC?style=for-the-badge"/>
+
+<br><br>
+
+Um site de vendas de artes manuais estilo anos '90 e Y2K.
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,html" />
+
+<br><br>
+
+**FrontEnd • CSS • HTML**
 
 </div>
 
